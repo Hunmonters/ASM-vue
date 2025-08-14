@@ -1,0 +1,23 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Pan",
+        "email": "khat5573@gmail.com",
+        "password": "123456",
+        "avatar": "https://thfvnext.bing.com/th/id/OSK.HEROCLICKTHROUGHnjBlE37NiYYg1floGtnlLAXXxYpYxBYz7mvr0kbxrHM?o=7&cb=thfvnextrm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "isAdmin": true
+
+    }],
+    "movies": [
+        { "id": 1, "title": "Phàm Nhân Tu Tiên", "poster": "https://phimhoathinh3d.me/wp-content/uploads/2025/06/pham-nhan-tu-tien-2-200x300.jpg", "year": 2024, "rating": 4.8, "genres": ["Fantasy", "Action"], "views": 59320, "description": "Tiên hiệp đỉnh cao.", "trailerUrl": "https://youtu.be/i_r7uXdAWKs?si=lHnZIfd25_u3HkD7", "streamUrl": "#" },
+        { "id": 2, "title": "Đấu La Đại Lục", "poster": "https://phimhoathinh3d.me/wp-content/uploads/2025/06/dau-la-dai-luc-2-200x300.jpg", "year": 2023, "rating": 4.5, "genres": ["Action", "Adventure"], "views": 9431, "description": "Mạo hiểm huyền huyễn.", "trailerUrl": "https://youtu.be/SswhA0wrPmk?si=3Bj3HyCqDbWTUpiu", "streamUrl": "#" },
+        { "id": 3, "title": "Mục Thần Ký", "poster": "https://phimhoathinh3d.me/wp-content/uploads/2025/06/muc-than-ky-image-1-200x300.jpg", "year": 2022, "rating": 4.2, "genres": ["Adventure"], "views": 6685, "description": "Phiêu lưu kỳ ảo.", "trailerUrl": "https://youtu.be/bGpvcLR1l5A?si=fUwswdeYLQ6XQDkm", "streamUrl": "#" },
+        { "id": 4, "title": "Tiên Nghịch", "poster": "https://phimhoathinh3d.me/wp-content/uploads/2025/06/tien-nghich-200x300.jpg", "year": 2024, "rating": 4.6, "genres": ["Fantasy"], "views": 10234, "description": "Huyền huyễn tiên hiệp.", "trailerUrl": "https://youtu.be/2b1k7Z8g0aY?si=9jXQy1J2c9f8sW3E", "streamUrl": "#" },
+        { "id": 5, "title": "Kiếm Lai", "poster": "https://phimhoathinh3d.me/wp-content/uploads/2025/06/kiem-lai-200x300.jpg", "year": 2025, "rating": 4.0, "genres": ["Action"], "views": 1200, "description": "Hành động mãn nhãn.", "trailerUrl": "https://youtu.be/SEW1snjO4kk?si=JIeoCGirbJmIbfRp", "streamUrl": "#" },
+        { "id": 6, "title": "Thế Giới Hoàn Mỹ", "poster": "https://hoathinh3d.mx/wp-content/uploads/2021/04/the-gioi-hoan-my-newposter-300x450.jpg", "year": 2023, "rating": 4.1, "genres": ["Fantasy"], "views": 4500, "description": "Huyền huyễn kỳ bí.", "trailerUrl": "https://youtu.be/YShOpO3c8HU?si=WDGWPeKV91gEjhXh", "streamUrl": "#" },
+        { "id": 7, "title": "Đấu Phá Thương Khung Phần 5", "poster": "https://hoathinh3d.mx/wp-content/uploads/2022/06/dau-pha-thuong-khung-phan-5-gia-nam-hoc-vien-4-300x450.jpg", "year": 2024, "rating": 4.3, "genres": ["Adventure"], "views": 7800, "description": "Cuộc phiêu lưu huyền thoại.", "trailerUrl": "https://youtu.be/kzxLhnR76Oo?si=8dyvy04dY-_-2hsm", "streamUrl": "#" },
+        { "id": 8, "title": "Lăng Thiên Độc Tôn", "poster": "https://hoathinh3d.mx/wp-content/uploads/2025/07/lang-thien-doc-ton.webp", "year": 2025, "rating": 4.4, "genres": ["Action"], "views": 6000, "description": "Hành động võ thuật đỉnh cao.", "trailerUrl": "https://www.youtube.com/watch?v=3PN7dHieyA8&list=PLVSzpDLbRa2bPuKGnbLCt1UQDei-PBX3g", "streamUrl": "#" },
+        { "id": 9, "title": "Thần Quốc Chi Thượng", "poster": "https://hoathinh3d.mx/wp-content/uploads/2025/06/than-quoc-chi-thuong-300x450.webp", "year": 2025, "rating": 4.5, "genres": ["Action", "Drama"], "views": 5000, "description": "Cuộc chiến không khoan nhượng.", "trailerUrl": "https://www.youtube.com/watch?v=pQrk7qdE49Q&list=PLVSzpDLbRa2Zs_D21ChHs2LOqFeq-Hl2-", "streamUrl": "#" },
+        { "id": 10, "title": "Quỷ Bí Chi Chủ", "poster": "https://hoathinh3d.mx/wp-content/uploads/2025/06/quy-bi-chi-chu-300x450.jpg", "year": 2025, "rating": 4.2, "genres": ["Adventure"], "views": 4000, "description": "Cuộc hành trình kỳ thú.", "trailerUrl": "https://www.youtube.com/watch?v=tmYhpaYjx7Q&list=PLwKZwhXs7EKzlx2JtVWgaOi_dwBfJ7pVE", "streamUrl": "#" }
+    ]
+}
